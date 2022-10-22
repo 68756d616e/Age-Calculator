@@ -11,7 +11,16 @@ weeks = (a) * 52
 
 print(f"You have {days}, {weeks} weeks, and {months} months remaining")
 
+#Alternative
 
+#age = input("Please enter your age: ")
+
+#age_int = 100 - int(age)
+#years = age_int * 365
+#months = age_int * 12
+#weeks = age_int * 52
+
+#print(f"You have {years}, {months} months, and {weeks} weeks left")
 
 
 
